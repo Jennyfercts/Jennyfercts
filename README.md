@@ -2,8 +2,6 @@
 
 🎓 Systems Development student at SENAI
 
-💻 Currently learning Java and software development
-
 🎨 Graphic design enthusiast with experience creating social media content
 
 🚀 Always looking to learn, improve my skills, and grow in the tech field
