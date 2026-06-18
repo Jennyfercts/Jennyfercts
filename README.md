@@ -1,4 +1,4 @@
-# Hi, I'm Jennyfer! 👋
+# Hey, I'm Jennyfer! 👋
 
 🎓 Systems Development student at SENAI
 
