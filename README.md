@@ -2,7 +2,7 @@
 
 🎓 Systems Development student at SENAI </h3>
 
-🏁 SENAI Grand Prix Participant
+🏁 SENAI Inovation Grand Prix Participant
 
 🎨 Graphic design enthusiast with experience creating social media content
 
