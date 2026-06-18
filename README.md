@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Jennyfer 👋</h1>
-<h3 align="center">🎓 Systems Development student at SENAI </h3>
+# Hello, I'm Jennyfer 👋</h1>
+
+🎓 Systems Development student at SENAI </h3>
 
 🎨 Graphic design enthusiast with experience creating social media content
 
