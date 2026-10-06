@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A83D68&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Jennyfer+%F0%9F%91%8B;Software+Development+student+%F0%9F%92%BB;Learning%2C+creating+and+building+with+code;Code%2C+design+%26+a+little+bit+of+wine+%F0%9F%8D%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A83D68&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Jennyfer+%F0%9F%91%8B;Software+Development+student+;Learning%2C+creating+and+building+with+code;" alt="Typing SVG" />
 
 <br><br>
 
@@ -28,11 +28,10 @@ I enjoy turning ideas into projects and combining **technology + creativity** to
 
 ```text
 🎓  Systems Development student
-💻  Currently learning Java, HTML & CSS
+💻  Currently learning Java, HTML, CSS & SQL
 🗄️  Exploring databases and backend development
 🎨  Interested in design and creative technology
 🚀  Building projects and learning through practice
-🍷  Dark mode enthusiast
 ```
 
 ---
@@ -52,6 +51,8 @@ I enjoy turning ideas into projects and combining **technology + creativity** to
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="48" height="48" />
+</p>
 
 </p>
 
@@ -90,7 +91,7 @@ This gives me an interesting combination of **technology + business + design**, 
 
 Some of the academic experiences and certifications I'm proud of:
 
-🏆 **Grand Prix SENAI 2026**
+🏆 **Grand Prix SENAI de Inovação 2026**
 
 🥇 **Olimpíada de Literatura — Gold Medal**
 
@@ -169,11 +170,11 @@ Some of the academic experiences and certifications I'm proud of:
 
 <div align="center">
 
-<a href="https://github.com/Jennyfercts">
+<a href="https://github.com/jennyfercts">
 <img src="https://img.shields.io/badge/GitHub-0D0B0C?style=for-the-badge&logo=github&logoColor=F5EEF1"/>
 </a>
 
-<a href="linked.in/jennyfercts">
+<a href="https://www.linkedin.com/in/jennyfercts">
 <img src="https://img.shields.io/badge/LinkedIn-5A0F2E?style=for-the-badge&logo=linkedin&logoColor=F5EEF1"/>
 </a>
 
